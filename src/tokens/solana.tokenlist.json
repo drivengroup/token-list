@@ -106609,7 +106609,15 @@
       "logoURI": "https://raw.githubusercontent.com/drivengroup/0legario.github.io/main/images/logo.png",
       "tags": [
         "social-token"
-      ]
+      ],
+      "extensions": {
+        "description": "$0LEG A Token created by Olegario Arbelaez. Driven Group on the Solana Blockchain.",
+        "github": "https://github.com/drivengroup/",
+        "instagram": "https://www.instagram.com/drivengroup/",
+        "linkedin": "https://www.linkedin.com/in/olegario/",
+        "twitter": "https://twitter.com/drivengroup/",
+        "website": "https://0legar.io/"
+      }
     },
     {
       "chainId": 101,
